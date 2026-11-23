@@ -12,6 +12,9 @@
 
 ### 🌐 Hub & Links
 
-* **Web Hub:** [uacrovn.github.io](https://github.io)
-* **3D Models:** [Printables](https://printables.com) • [GrabCAD](https://grabcad.com)
-* **Media:** [X (Twitter)](https://x.com) • [YouTube](https://youtube.com) • [Instagram](https://instagram.com)
+* **Web Hub:** https://github.io
+* **Printables:** https://printables.com
+* **GrabCAD:** https://grabcad.com
+* **X (Twitter):** https://x.com
+* **YouTube:** https://youtube.com
+* **Instagram:** https://instagram.com
