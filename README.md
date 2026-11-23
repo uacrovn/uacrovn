@@ -16,5 +16,5 @@
 * [**Printables**](https://www.printables.com/@uacrovn_5731650)
 * [**GrabCAD**](https://grabcad.com/uacrovn-2)
 * [**X (Twitter)**](https://x.com/uacrovn)
-* [**YouTube:**](https://www.youtube.com/channel/UCA2s_Oq2Vmt9lNkucjig4gQ)
-* [**Instagram:**](https://instagram.com/uacrovn)
+* [**YouTube**](https://www.youtube.com/channel/UCA2s_Oq2Vmt9lNkucjig4gQ)
+* [**Instagram**](https://instagram.com/uacrovn)
