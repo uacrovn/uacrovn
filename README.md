@@ -13,8 +13,8 @@
 ### 🌐 Hub & Links
 
 * **Web Hub:** https://uacrovn.github.io
-* **Printables:** https://printables.com
-* **GrabCAD:** https://grabcad.com
-* **X (Twitter):** https://x.com
-* **YouTube:** https://youtube.com
-* **Instagram:** https://instagram.com
+* **Printables:** https://printables.com/uacrovn
+* **GrabCAD:** https://grabcad.com/uacrovn
+* **X (Twitter):** https://x.com/uacrovn
+* **YouTube:** https://youtube.com/uacrovn
+* **Instagram:** https://instagram.com/uacrovn
