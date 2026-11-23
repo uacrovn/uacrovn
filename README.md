@@ -1,16 +1,17 @@
-## Hi there 👋
+# uacrovn ⚡
 
-<!--
-**uacrovn/uacrovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Electronics, Hardware & Robotics. Based in Pilsen, CZ.
 
-Here are some ideas to get you started:
+### 🛠️ Focus Areas
+![Electronics](https://shields.io)
+![Robotics](https://shields.io)
+![3D CAD](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Live GitHub Stats
+![uacrovn's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+### 🌐 Hub & Links
+- **Web Hub:** [uacrovn.github.io](https://github.io)
+- **3D Models:** [Printables](https://printables.com) | [GrabCAD](https://grabcad.com)
+- **Media:** [X (Twitter)](https://x.com) | [YouTube](https://youtube.com) | [Instagram](https://instagram.com)
