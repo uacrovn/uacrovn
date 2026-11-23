@@ -13,7 +13,7 @@
 ### 🌐 Hub & Links
 
 * **Web Hub:** https://uacrovn.github.io
-* **Printables:** https://printables.com/uacrovn
+* **Printables:** [https://printables.com/uacrovn](https://www.printables.com/@uacrovn_5731650)
 * **GrabCAD:** https://grabcad.com/uacrovn
 * **X (Twitter):** https://x.com/uacrovn
 * **YouTube:** [https://youtube.com/uacrovn](https://www.youtube.com/channel/UCA2s_Oq2Vmt9lNkucjig4gQ)
